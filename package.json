@@ -1,0 +1,19 @@
+{
+  "name": "nodestudy",
+  "version": "1.0.0",
+  "description": "This project was part of my personal study about Node.JS JavaScript runtime built on Chrome's V8 JavaScript engine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitaicharan/Node-Study.git"
+  },
+  "author": "Nitai Charan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nitaicharan/Node-Study/issues"
+  },
+  "homepage": "https://github.com/nitaicharan/Node-Study#readme"
+}
